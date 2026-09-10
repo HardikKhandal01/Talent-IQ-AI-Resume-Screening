@@ -1,0 +1,24 @@
+# Web Framework & Server
+fastapi
+uvicorn
+python-multipart
+
+# Data Validation
+pydantic
+
+# Database ORM & Driver
+sqlalchemy
+# psycopg2-binary==2.9.9
+
+# Environment Variables
+python-dotenv
+
+# PDF Processing
+pymupdf
+
+#NLP & ML Engine
+sentence-transformers
+scikit-learn
+
+#Other
+google-generativeai
